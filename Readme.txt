@@ -59,6 +59,7 @@ Change log 5/4/2013 Nemesis v1.3
 * Optimized TCP/IP stack, so browsing will be very fast and responsive
 * Increased frame buffer so UI will be much faster
 * Fixed Battery Drainage issue (although it was small drain)
+* Fixed CWM issue
 * Many more optimizations...
 
 Changes to governors : 
