@@ -52,7 +52,7 @@ IO Schedulers included
 
 ########################################################################################
 
-Change log 4/4/2013 Nemesis v1.3
+Change log 5/4/2013 Nemesis v1.3
 * Fixed Usb Tethering
 * Decreased Power Consumption further and optimzed DDR consuption
 * Increased graphics performance a bit
