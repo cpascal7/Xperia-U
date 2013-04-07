@@ -1,4 +1,4 @@
-Welcome to cpascal7's XPERIA-U	repo regarding Nemesis Kernel which is a fast,smooth and 
+Welcome to cpascal7's XPERIA-U repo regarding Nemesis Kernel which is a fast,smooth and 
 minimal kernel to drive your device into higher levels of responsiveness.
 
 I and nicolassp created a team called OLYMPUS TEAM to offer you the best experience 
