@@ -78,4 +78,31 @@ New governors included :
 * InteractiveX (Updated and Tweaked)
 * Conservative
 
-########################################################################################
+#########################################################################################
+
+Change log 12/4/2013 Nemesis v2.0
+* Fixed USB OTG
+* Optimized further battery life
+* Added VPN support with L2TP support and deflate compression
+* Some under the hood improvements (faster GPS lock and more..)
+
+Changes to governors : 
+* Added Scary governor
+* Added Lionheart governor
+* Added HotplugX governor
+* Removed Hotplug governor
+* Updated Lazy governor
+* Updated Sakuractive governor
+* Updated Lulzactive governor
+* Updated LulzactiveQ governor
+* Updated Smartass2 governor
+* Updated PegasusQ governor
+* Updated OndemandX governor
+* Updated OndemandQ governor
+* Updated Nightmare governor
+* Updated Minmax governor
+* Updated InteractiveX governor
+* Updated Interactive governor
+* Updated Wheatley governor
+
+##########################################################################################
